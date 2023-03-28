@@ -1,0 +1,418 @@
+@media screen and (min-width: 600px) {
+  .navbar {
+    background-color: rgb(241, 224, 203);
+    border-bottom: 1px solid green;
+    padding-bottom: -8px;
+    margin-left: -15px;
+  }
+  .home {
+    margin-left: 50px;
+  }
+  .wesitelinks {
+    display: flex;
+    align-items: center;
+  }
+  .textarrow {
+    display: flex;
+  }
+  .cardProgress {
+    display: flex;
+  }
+  .progressbarSize {
+    margin-top: 70px;
+    height: 300px;
+    width: 60%;
+  }
+  .buttonholder {
+    background-color: orange;
+    width: 10%;
+    height: 5px;
+  }
+  .googlesize {
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+  }
+  .textprogressalign {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .fedexsize,
+  .airbnb,
+  .microsoft {
+    height: 30px;
+    width: 100px;
+    margin: 10px;
+  }
+  .text {
+    margin-top: 45px;
+  }
+  .homeImg {
+    display: flex;
+    background-color: rgb(241, 224, 203);
+  }
+  .homeWork {
+    display: flex;
+    padding: 20px;
+  }
+  .ideas {
+    padding: 10px;
+    color: orange;
+    background-color: white;
+    border-radius: 999em 999em 999em 999em;
+    margin-left: 30px;
+    width: 300px;
+    text-align: center;
+    height: 70px;
+    align-items: center;
+  }
+  .withYou {
+    display: flex;
+    padding: 20px;
+  }
+  .arrowicon {
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    color: orange;
+  }
+  .imageSize {
+    height: 300px;
+    width: 300px;
+  }
+  .homeContainer {
+    /* margin: 100px; */
+    /* display: flex; */
+  }
+
+  .buttonholder {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 30px;
+    background-color: rgb(246, 225, 199);
+  }
+  .buttonholder1 {
+    background-color: rgb(246, 225, 199);
+    width: 20%;
+    height: 30px;
+  }
+  .buttonholder12 {
+    background-color: rgb(246, 225, 199);
+    width: 80%;
+    height: 30px;
+  }
+  .request {
+    padding: 10px;
+    color: white;
+    background-color: green;
+    border-radius: 999em 999em 999em 999em;
+    margin-left: 15%;
+    width: 300px;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+  }
+  .buttonsample {
+    align-self: center;
+    justify-self: center;
+    height: 40px;
+  }
+  .projectsContainer {
+    background-color: green;
+  }
+  .mthodsContainer {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(241, 224, 203);
+    align-items: center;
+    align-content: center;
+  }
+  .imgsize {
+    height: 300px;
+    width: 400px;
+  }
+  .methods {
+    display: flex;
+    margin-top: 60px;
+  }
+  .projectContainer {
+    padding-top: 40px;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .textarea {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .bottomarea {
+    line-height: 10px;
+    width: 40%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+  }
+  .bottomareamessage {
+    line-height: 30px;
+  }
+  .textareamessage {
+    display: flex;
+    color: white;
+  }
+  .amazingideas {
+    padding: 10px;
+    color: orange;
+    background-color: rgb(20, 19, 19);
+    border-radius: 999em 999em 999em 999em;
+    margin-left: 30px;
+    width: 300px;
+    height: 70px;
+    align-items: center;
+    text-align: center;
+  }
+  .formdetail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    margin-left: 40%;
+    height: 300px;
+    width: 250px;
+  }
+  .methodsmessage {
+    color: green;
+  }
+  .methodsmessage1 {
+    display: flex;
+    color: green;
+  }
+
+  .nav-itemideas {
+    color: orange;
+    background-color: white;
+    border-radius: 999em 999em 999em 999em;
+
+    width: 200px;
+    text-align: center;
+    height: 40px;
+  }
+  .textprogressalignbuttonholder {
+    background-color: orange;
+    width: 10%;
+    height: 5px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .methods {
+    display: block;
+  }
+  .navbar {
+    background-color: rgb(241, 224, 203);
+    width: 100%;
+  }
+  .homeWork {
+    display: flex;
+  }
+  .imageSize {
+    width: 100%;
+    height: max-content;
+  }
+  .homeImg {
+    background-color: rgb(241, 224, 203);
+  }
+
+  .ideas {
+    padding: 10px;
+    color: orange;
+    background-color: white;
+    border-radius: 999em 999em 999em 999em;
+    margin-left: 30px;
+    width: 200px;
+    text-align: center;
+    height: 50px;
+    align-items: center;
+  }
+  .textmessageideas {
+    padding: 10px;
+    color: orange;
+    background-color: white;
+    border-radius: 999em 999em 999em 999em;
+    margin-left: 30px;
+    width: 300px;
+    text-align: center;
+    height: 50px;
+    align-items: center;
+  }
+  .withYou {
+    display: flex;
+    padding: 20px;
+  }
+  .homeImg {
+    display: block;
+    flex-direction: row;
+  }
+  .footer-dark .item:not(.social) {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+  .buttonholder {
+    /* display: block; */
+    display: flex;
+    flex-direction: row !important;
+    width: 100%;
+    height: 30px;
+    background-color: rgb(246, 225, 199);
+  }
+
+  .sendascardsimage {
+    height: 100px;
+    width: 100px;
+  }
+  .progressbarSize {
+    height: 350px;
+    width: 350px;
+  }
+  .cardProgress {
+    /* font-size: 16px; */
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column !important;
+  }
+  .cardSize,
+  .sendascardsimage,
+  .imgsize {
+    height: 350px;
+    width: 350px;
+  }
+  .wesitelinks {
+    display: block;
+    flex-direction: row;
+  }
+  .request {
+    padding: 10px;
+    color: white;
+    background-color: green;
+    border-radius: 999em 999em 999em 999em;
+    /* margin-left: 15%; */
+    width: 50%;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+  }
+  .textarrow {
+    display: flex;
+  }
+  .buttonholder1 {
+    background-color: rgb(246, 225, 199);
+    width: 20%;
+    height: 30px;
+  }
+  .buttonholder12 {
+    background-color: rgb(246, 225, 199);
+    width: 80%;
+    height: 30px;
+  }
+  .projectContainer {
+    padding-top: 40px;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .googlesize,
+  .airbnb,
+  .microsoft,
+  .fedexsize {
+    height: 20%;
+    width: 20%;
+    margin: 2%;
+  }
+  .text {
+    margin-top: 23px;
+    margin-left: 10px;
+  }
+  .textprogressalign {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .textarea {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .textprogressalignbuttonholder {
+    background-color: orange;
+    width: 10%;
+    height: 5px;
+  }
+  .amazingideas {
+    padding: 10px;
+    color: orange;
+    background-color: rgb(20, 19, 19);
+    border-radius: 999em 999em 999em 999em;
+    margin-left: 30px;
+    width: 250px;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+  }
+  .mthodsContainer {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(241, 224, 203);
+    align-items: center;
+    align-content: center;
+  }
+  .textareamessage {
+    display: flex;
+    color: white;
+  }
+  .bottomarea {
+    line-height: 10px;
+    width: 80%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+  }
+  .methodsmessage {
+    color: green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+  }
+  .bottomareamessage {
+    line-height: 30px;
+  }
+  .methodsmessage1 {
+    display: flex;
+    color: green;
+  }
+  .formdetail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    margin-left: 15%;
+    height: 300px;
+    width: 250px;
+  }
+}
