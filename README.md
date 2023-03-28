@@ -15,13 +15,21 @@ ReactJS, HTML, CSS, JavaScript, Bootstrap
 ### 1.Desktop Version
 
 ![Desktop snapshot](src/components/assets/images/screenshots/DesktopHome1.png "Library theme")
-![Desktop snapshot](src/components/screenshot/desktop2.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/DesktopHome2.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/Desktoplogin.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/DesktopMethod.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/DesktopProject.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/error.png "Library theme")
 
 ### 2.Mobile Version
 
-![Mobile snapshot](src/components/screenshot/mobile1.png "Library theme")
-![Mobile snapshot](src/components/screenshot/mobile2.png "Library theme")
-![Mobile snapshot](src/components/screenshot/mobile.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/mobilehome1.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/mobilehome2.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/mobilehome3.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/mobileproject.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/mobilelogin.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/mobilemethod.png "Library theme")
+![Desktop snapshot](src/components/assets/images/screenshots/mobile2.png "Library theme")
 
 ## Running the applicaition
 
