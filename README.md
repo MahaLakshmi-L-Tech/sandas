@@ -14,7 +14,7 @@ ReactJS, HTML, CSS, JavaScript, Bootstrap
 
 ### 1.Desktop Version
 
-![Desktop snapshot](src/components/assests/images/screenshot/DesktopHome1.png "Library theme")
+![Desktop snapshot](src/components/assests/images/screenshots/DesktopHome1.png "Library theme")
 ![Desktop snapshot](src/components/screenshot/desktop2.png "Library theme")
 
 ### 2.Mobile Version
